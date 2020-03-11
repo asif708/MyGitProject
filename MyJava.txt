@@ -1,7 +1,8 @@
 class MyClass{
 
-main(){
+	public static void main(String args[]){
 
-sysout("Hello Git");
-}
+		System.out.println("Hello Git");
+
+	}
 }

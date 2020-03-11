@@ -1,7 +1,7 @@
 class MyClass{
 
 
-		void myMethod(){
+		static void myMethod(){
 			sysout("MyMethod");
 		}
 
@@ -9,5 +9,7 @@ class MyClass{
 
 		System.out.println("Hello Git...!!! Welcome to DevOps and Git!!!");
 
+
+		MyClass.myMethod();
 	}
 }
